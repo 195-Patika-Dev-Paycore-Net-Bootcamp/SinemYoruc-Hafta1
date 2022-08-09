@@ -7,7 +7,7 @@ namespace Odev1.Controllers
     [Route("[controller]")]
     public class InterestController : ControllerBase
     {
-        [HttpGet("GetTotalBalance")]
+        [HttpGet("GetInterest")]
         public ActionResult<Interest> Get([FromQuery] double principal, double interestAmount, double expiry) //Request body (ana para, faiz orani ve vade alindi)
         {
             Interest interest = new(); //yeni liste
