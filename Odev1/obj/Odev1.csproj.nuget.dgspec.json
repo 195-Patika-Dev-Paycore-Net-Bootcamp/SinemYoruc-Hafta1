@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sinem\\source\\repos\\Odev1\\Odev1\\Odev1.csproj": {}
+    "C:\\Users\\sinem\\source\\repos\\ODEV1\\Odev1\\Odev1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sinem\\source\\repos\\Odev1\\Odev1\\Odev1.csproj": {
+    "C:\\Users\\sinem\\source\\repos\\ODEV1\\Odev1\\Odev1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sinem\\source\\repos\\Odev1\\Odev1\\Odev1.csproj",
+        "projectUniqueName": "C:\\Users\\sinem\\source\\repos\\ODEV1\\Odev1\\Odev1.csproj",
         "projectName": "Odev1",
-        "projectPath": "C:\\Users\\sinem\\source\\repos\\Odev1\\Odev1\\Odev1.csproj",
+        "projectPath": "C:\\Users\\sinem\\source\\repos\\ODEV1\\Odev1\\Odev1.csproj",
         "packagesPath": "C:\\Users\\sinem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sinem\\source\\repos\\Odev1\\Odev1\\obj\\",
+        "outputPath": "C:\\Users\\sinem\\source\\repos\\ODEV1\\Odev1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
