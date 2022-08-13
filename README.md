@@ -15,7 +15,7 @@ Daha sonra uygulamayı çalıştırabilirsiniz.
 
 
 ## Outputs
-![Postman Çıktısı](odev1-postman.png)
+![Postman Çıktısı](Odev1/Screenshots/odev1-postman.png)
 
 
-![Swagger Çıktısı](odev1-swagger.png)
+![Swagger Çıktısı](Odev1/Screenshots/odev1-swagger.png)
